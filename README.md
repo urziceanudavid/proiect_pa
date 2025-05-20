@@ -1,6 +1,6 @@
 # Car Registration Records Management Application
 
-This is a Python desktop application for managing the registration records of vehicles. It was developed as part of the Programming Applications Laboratory course at the Faculty of Automation, Computers and Electronics, University of Craiova (http://ace.ucv.ro/).
+This is a Python desktop application for managing the registration records of vehicles. It was developed as part of the Programming Algorithm's Laboratory course at the Faculty of Automation, Computers and Electronics, University of Craiova (http://ace.ucv.ro/).
 
 ## Features
 
